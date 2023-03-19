@@ -1,0 +1,4 @@
+Put the resume.txt in input folder
+Use sh run.sh to exec the commands
+Run runcheck using ./runcheck on terminal 
+The output is in test.csv file
